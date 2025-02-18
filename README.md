@@ -1,2 +1,2 @@
 # ty-website
-my personal website - professional and personal
+my website - professional and personal
